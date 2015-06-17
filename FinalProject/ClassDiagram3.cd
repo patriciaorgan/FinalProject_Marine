@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FinalProject.Program" Collapsed="true">
+    <Position X="23.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQBAAAAQEAAaAAAEAFAgAAEgIgICABEAAAAhAAoAgA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProject.Subjects.BelmulletAWave" Collapsed="true">
+    <Position X="15.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Subjects\BelmulletAWave.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProject.Subjects.BelmulletBWave" Collapsed="true">
+    <Position X="19" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Subjects\BelmulletBWave.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProject.Subjects.CorkBouyWave" Collapsed="true">
+    <Position X="5.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Subjects\CorkBouyWave.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProject.Subjects.CorkBuoyM3" Collapsed="true">
+    <Position X="9.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Subjects\CorkBuoyM3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProject.Subjects.DataSubject" Collapsed="true">
+    <Position X="22" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQAgQAAAAAAAwEAAAAAwAAAAQcABAAhCAAAAAgAEAA=</HashCode>
+      <FileName>Subjects\DataSubject.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FinalProject.Subjects.DonBuoyWave" Collapsed="true">
+    <Position X="11" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Subjects\DonBuoyWave.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProject.Subjects.DonegalBuoyM4" Collapsed="true">
+    <Position X="12.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Subjects\DonegalBuoyM4.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProject.Subjects.DubBuoyWave" Collapsed="true">
+    <Position X="7.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Subjects\DubBuoyWave.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProject.Subjects.DublinBuoyM2" Collapsed="true">
+    <Position X="10.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Subjects\DublinBuoyM2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProject.Subjects.ForecastData">
+    <Position X="22" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAIBAAAAAAAAAABAAA=</HashCode>
+      <FileName>Subjects\ForecastData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProject.Subjects.GalBayBuoyWave" Collapsed="true">
+    <Position X="17.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Subjects\GalBayBuoyWave.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProject.Subjects.WaveBuoy30min" Collapsed="true">
+    <Position X="17.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Subjects\WaveBuoy30min.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProject.Subjects.WaveBuoyHourly" Collapsed="true">
+    <Position X="7.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Subjects\WaveBuoyHourly.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProject.Subjects.WeatherBuoy" Collapsed="true">
+    <Position X="10.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Subjects\WeatherBuoy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProject.Subjects.WexBuoyWave" Collapsed="true">
+    <Position X="9.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Subjects\WexBuoyWave.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProject.Subjects.WexfordBuoyM5" Collapsed="true">
+    <Position X="12.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Subjects\WexfordBuoyM5.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProject.Subscriber.DemoWebsite" BaseTypeListCollapsed="true">
+    <Position X="26.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Subscribers\DemoWebsite.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FinalProject.Subscriber.FaceBook" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACABAAEAAA=</HashCode>
+      <FileName>Subscribers\FaceBook.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="FinalProject.Subscriber.Twitter" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgAAAAAQAAAAAAAAEAAAAAAAAAAAAAAAEACA=</HashCode>
+      <FileName>Subscribers\Twitter.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="FinalProject.Util.MyUtil" Collapsed="true">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACBAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Util\MyUtil.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProject.WebAPI.WidgetItem">
+    <Position X="25.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAkA=</HashCode>
+      <FileName>WebAPI\WidgetItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FinalProject.WebAPI.WidgetItemController">
+    <Position X="27.25" Y="4.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAAAgABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WebAPI\WidgetItemController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="FinalProject.Interfaces.ISubject">
+    <Position X="21.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAAAAAAAAAAAAAAAAAAAAAAQEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interfaces\ISubject.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="FinalProject.Interfaces.ISubscriber">
+    <Position X="26.25" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Interfaces\ISubscriber.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
